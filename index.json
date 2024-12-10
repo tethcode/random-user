@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Amalie",
+                "last": "Petersen"
+            },
+            "location": {
+                "street": {
+                    "number": 7658,
+                    "name": "Fuglebakken"
+                },
+                "city": "Lundby",
+                "state": "Sj\u00e6lland",
+                "country": "Denmark",
+                "postcode": 58072,
+                "coordinates": {
+                    "latitude": "-40.9671",
+                    "longitude": "66.4206"
+                },
+                "timezone": {
+                    "offset": "-7:00",
+                    "description": "Mountain Time (US & Canada)"
+                }
+            },
+            "email": "amalie.petersen@example.com",
+            "login": {
+                "uuid": "0cc3c37b-8f12-4a81-8e79-e45e7e565060",
+                "username": "organictiger331",
+                "password": "ihateyou",
+                "salt": "0gkQGfF3",
+                "md5": "43ba9407bbcd7d2e745f92761b5a591d",
+                "sha1": "adf8f9a5aa93cd4e516d93b40f6644ab4bb8cc63",
+                "sha256": "a2b7412430f30c355b3dd29a71d88022ecb64382ae1199db883aaad109c06d60"
+            },
+            "dob": {
+                "date": "1964-07-31T01:33:30.381Z",
+                "age": 60
+            },
+            "registered": {
+                "date": "2020-05-01T22:55:56.944Z",
+                "age": 4
+            },
+            "phone": "93430407",
+            "cell": "66663683",
+            "id": {
+                "name": "CPR",
+                "value": "300764-4186"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/44.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+            },
+            "nat": "DK"
+        }
+    ],
+    "info": {
+        "seed": "bb123b85ab3f9091",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
